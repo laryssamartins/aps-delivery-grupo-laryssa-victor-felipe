@@ -1,0 +1,13 @@
+{
+  "name": "aps-delivery",
+  "version": "1.0.0",
+  "description": "APS - Testes automatizados do sistema DeliveryExpress",
+  "main": "delivery.js",
+  "scripts": {
+    "test": "jest",
+    "test:coverage": "jest --coverage"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
