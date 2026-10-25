@@ -3,9 +3,9 @@
 Projeto de testes automatizados e regras de negócio do sistema **DeliveryExpress**.
 
 ## 👥 Integrantes da Equipe
-- Nome do Aluno 1
-- Nome do Aluno 2
-- Nome do Aluno 3
+- Laryssa Martins Aguiar dos Santos
+- Felipe Iury Soeiro Carneiro
+- Victor Caua
 
 ---
 
