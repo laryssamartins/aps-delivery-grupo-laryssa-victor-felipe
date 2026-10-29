@@ -5,7 +5,7 @@ Projeto de testes automatizados e regras de negócio do sistema **DeliveryExpres
 ## Integrantes da Equipe
 - Laryssa Martins Aguiar dos Santos
 - Felipe Iury Soeiro Carneiro
-- Victor Caua
+- Victor Cauã de Andrade Castro
 
 ---
 
