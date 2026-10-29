@@ -62,3 +62,11 @@ All files        |     100 |      100 |     100 |     100 |
 -----------------|---------|----------|---------|---------|-------------------
 Test Suites: 1 passed, 1 total
 Tests:       20 passed, 20 total
+
+## Resultado do npm test:
+<img width="866" height="677" alt="Captura de tela 2026-10-25 172204" src="https://github.com/user-attachments/assets/6555f699-ef1d-44cf-861c-f910f7ee3924" />
+
+## Resultado do npm run test:coverage:
+<img width="863" height="857" alt="Captura de tela 2026-10-25 172234" src="https://github.com/user-attachments/assets/a0f9c1e4-a334-4e06-9175-9005f330f4a1" />
+
+
