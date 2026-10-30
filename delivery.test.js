@@ -1,3 +1,4 @@
+// Aqui vou botar meus testes - Victor Cauã
 const delivery = require('./delivery');
 
 test('CT-Teste-Victor-01: verificando se o usuário está ativo no sistema', () => {
@@ -27,3 +28,5 @@ test('CT-Teste-Victor-05: testando distancia de entrega curta (2 km)', () => {
 test('CT-Teste-Victor-06: testando a distancia na fronteira de 3 km', () => {
   expect(delivery.calcularFrete(3)).toBe(5);
 });
+
+// Fim dos meus testes, deixei aqui apenas 6 testes, o resto ficou com a Laryssa e o Felipe.
